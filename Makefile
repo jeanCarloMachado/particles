@@ -1,2 +1,2 @@
 all:
-	gcc test.c -lGLU -lGL -lglut -lm
+	gcc main.c -lGLU -lGL -lglut -lm
